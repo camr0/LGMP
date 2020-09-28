@@ -2,3 +2,8 @@
 *.o
 *.exe
 */build
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
